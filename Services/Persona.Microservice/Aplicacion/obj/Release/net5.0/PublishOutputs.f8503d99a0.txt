@@ -1,0 +1,5 @@
+C:\Users\ajtomala\source\repos\Persona.Microservice\out\Aplicacion.dll
+C:\Users\ajtomala\source\repos\Persona.Microservice\out\Aplicacion.deps.json
+C:\Users\ajtomala\source\repos\Persona.Microservice\out\Aplicacion.pdb
+C:\Users\ajtomala\source\repos\Persona.Microservice\out\Dominio.dll
+C:\Users\ajtomala\source\repos\Persona.Microservice\out\Dominio.pdb

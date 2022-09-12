@@ -1,0 +1,11 @@
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\ajtomala\source\repos\Movimientos.Microservice\Dominio\obj\Debug\net5.0\Dominio.pdb
